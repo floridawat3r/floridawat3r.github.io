@@ -4,8 +4,8 @@ title: sprouting seeds
 ---
 (drafted 17:17 on 11 April)
 
-![a small sprouting body on a moss, with a water droplet hanging from it]({{site.baseurl}}/https://www.pexels.com/photo/balance-16228645/)
-[Photo](/images/pexels-kiran-krishnan-16228645.jpg) by Kiran Krishnan from Pexels.
+![a moss sprout with a drop of water, very close up]({{site.baseurl}}/images/pexels-kiran-krishnan-16228645.jpg)
+[Photo](https://www.pexels.com/photo/balance-16228645/) by Kiran Krishnan from Pexels.
 
 (Note: when I first wrote this post, I had not experienced substack’s Notes feature. It is alarmingly birdsite-esque and I fear its hold on me)
 
