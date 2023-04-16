@@ -7,8 +7,8 @@ published: true
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <h6>{{ post.date | date_to_long_string: "ordinal" }}</h6>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date_to_long_string: "ordinal" }}
       <div class="entry">
         {{ post.excerpt }}
       </div>
