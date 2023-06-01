@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 May went a little harder than I expected it to, in the end. The first half was calm enough, finishing out the final shows at the theatre kept me busy enough, then I had a week to not do much at all before I was supposed to go to another Burn, this time in Virginia. Instead, Grandy fell on Sunday (the 21st) and has been in the hospital ever since. We've moved her to hospice now, and it has become a waiting game. I spend most days here with her, primarily so if she wakes up she isn't alone, at least some of the time. I had taken the whole week off for my trip, so I was very available to stay by her side. I've had to go back to work now, but it's light and they're very understanding.
 
