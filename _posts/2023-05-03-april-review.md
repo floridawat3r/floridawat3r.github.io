@@ -1,8 +1,7 @@
 ---
 published: true
+title: April Retrospective & May Afternoon
 ---
-## April Retrospective & May Afternoon
-
 April has been a month of warm nights, hot days, a week of rain at one point, and otherwise a settling-in feeling has come over me. I've been in Florida long enough now (seven and a half months) that I feel like I understand the boundaries of my living situation, I know the places I'm going to go and I know how long it takes me to get there. After a few shakeups and unusual activities in March, I find that April has been about getting back to my routine before the next round of activities begins.
 
 My weekends are spent at the box office of our little community theatre, selling tickets and answering questions, after which I go across the bridge to one of a few seedy little bars that I like, to see a few folks who are otherwise too busy to hang out the rest of the week.
