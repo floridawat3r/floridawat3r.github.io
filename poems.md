@@ -1,5 +1,3 @@
--[Unlicensed Operator](unlicensed-operator)
-
-Older material:
--[sunset on a deserted island](sunset-on-a-deserted-island)
--[a hermit goes shopping](a-hermit-goes-shopping)
+- [Unlicensed Operator](unlicensed-operator)
+- [Head Case](head-case)
+- [a hermit goes to the DMV](a-hermit-goes-to-the-dmv)
