@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## June, July, August
 
