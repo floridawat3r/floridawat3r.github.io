@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## June, July, August
-
 I had such good intentions, of course. One always does when one begins a livejournal-like project like this, and it always devolves into apologies for the delays, etc etc. But we soldier on, because frankly, the summer has been too interesting to not tell all about it.
 
 ### June
