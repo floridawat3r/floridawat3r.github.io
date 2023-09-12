@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Inpsiration comes thick and fast when it does come. I should be *editing* a poem (this is more exciting than "I should be writing a poem") but of course I finally had some ideas gel that necessitated a blog post. Please form an orderly queue!
 
